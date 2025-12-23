@@ -1,0 +1,35 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+        }
+        .box {
+            width: 320px;
+            margin: 50px auto;
+            padding: 20px;
+            background:white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px black;
+        }
+        h2 {
+            text-align: center;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 10px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 15px;
+            background: green;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .passErr{
+            color: red;
+            font-size: 14px;
+            margin: 2px 0 5px;
+        }
